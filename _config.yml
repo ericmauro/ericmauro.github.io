@@ -1,0 +1,5 @@
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+plugins:
+- jekyll-remote-theme 
+title: E. Mauro
+description: My personal website
